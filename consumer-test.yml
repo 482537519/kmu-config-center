@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: testroot
+    password: testroot
+    driver-class-name: "com.mysql.jdbc.Driver"
+    url: jdbc:mysql://localhost:3306/test-aaa
