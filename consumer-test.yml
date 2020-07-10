@@ -1,6 +1,6 @@
 spring:
   datasource:
-    username: testroot
-    password: testroot
+    username: hotfixtestroot
+    password: hotfixtestroot
     driver-class-name: "com.mysql.jdbc.Driver"
-    url: jdbc:mysql://localhost:3306/test-aaa
+    url: jdbc:mysql://localhost:3306/test-aaa-hotfix
